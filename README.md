@@ -1,6 +1,6 @@
 
  <p align="center>
- ![](https://github.com/Pinal2911/Pinal2911/blob/main/JXA0.gif)
+ ![]https://github.com/Pinal2911/Pinal2911/blob/main/JXA0.gif
  </p>
  
 <h1 align="center">Hi 👋, I'm Pinal</h1>
