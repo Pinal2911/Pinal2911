@@ -1,11 +1,12 @@
 
-<img src="https://github.com/Pinal2911/Pinal2911/blob/main/JXA0.gif" align="center">
+<p align="center>
+          <img src="https://github.com/Pinal2911/Pinal2911/blob/main/JXA0.gif" align="center"></p>
 <h1 align="center">Hi 👋, I'm Pinal</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/pinal-parmar-45a62722b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinal-parmar-45a62722b" height="30" width="40" /></a>
 <a href="https://codesandbox.com/pinal2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pinal2911" height="30" width="40" /></a>
 </p>
