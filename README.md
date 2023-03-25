@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pinal</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
-<iframe src="https://gifer.com/embed/JXA0" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe>
-<p><a href="https://gifer.com">via GIFER</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinal2911&label=Profile%20views&color=0e75b6&style=flat" alt="pinal2911" /> </p>
-
+<img src="https://i.gifer.com/JXA0.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pinal-parmar-45a62722b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinal-parmar-45a62722b" height="30" width="40" /></a>
