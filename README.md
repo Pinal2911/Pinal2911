@@ -1,6 +1,6 @@
 
 <p align="center>
-          <img src="https://github.com/Pinal2911/Pinal2911/blob/main/JXA0.gif">
+![](https://github.com/Pinal2911/Pinal2911/blob/main/JXA0.gif)
  </p>
 <h1 align="center">Hi 👋, I'm Pinal</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
