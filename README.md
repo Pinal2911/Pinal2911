@@ -1,5 +1,5 @@
-#My GIF
-![main](https://github.com/Pinal2911/Pinal2911/blob/main/JXA0.gif)
+
+<img src="https://github.com/Pinal2911/Pinal2911/blob/main/JXA0.gif" align="center">
 <h1 align="center">Hi 👋, I'm Pinal</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
