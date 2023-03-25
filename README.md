@@ -28,12 +28,13 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinal2911&" alt="pinal2911" /></p> -->
 
 # 📊 GitHub Stats:
+<p align ="center">
 ![](https://github-readme-stats.vercel.app/api?username=pinal2911&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pinal2911&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinal2911&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+ </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=pinal2911&icon=0&color=0)](https://visitcount.itsvg.in)
+
