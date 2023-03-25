@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pinal</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
-<img align="center" src="https://i.gifer.com/JXA0.gif">
+<iframe src="https://gifer.com/embed/JXA0" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinal2911&label=Profile%20views&color=0e75b6&style=flat" alt="pinal2911" /> </p>
 
 <h3 align="left">Connect with me:</h3>
