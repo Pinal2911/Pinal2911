@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pinal</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
-<img src="https://images.app.goo.gl/YWzJHmGZtAxGxQTG6">
+![](https://github.com/Pinal2911/Pinal2911/blob/main/JXA0.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
