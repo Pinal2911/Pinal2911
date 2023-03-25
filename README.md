@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pinal</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
-![MasterHead](https://wallpaperaccess.com/full/219689.jpg)
-![MasterHead](https://resumespice.com/wp-content/uploads/2021/03/12.png)
+<img src="https://images.app.goo.gl/YWzJHmGZtAxGxQTG6">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
