@@ -1,6 +1,6 @@
 
  <p align="center">
- <img src="https://github.com/Pinal2911/Pinal2911/blob/main/JXA0.gif"></img>
+<img src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="500" /> 
  </p>
  
 <h1 align="center">Hi 👋, I'm Pinal</h1>
