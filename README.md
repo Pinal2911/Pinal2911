@@ -6,7 +6,8 @@
 <h1 align="center">Hi 👋, I'm Pinal</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 💫 About Me:<br>
-🔭 I’m currently learning Full Stack Web Development <br>
+🔭 Exploring Full Stack Web Development <br>
+🔭 Exploring Java and Microservices <br>
 🌱 I’m currently also improving my Problem Solving Skills<br>
 ⚡ I am passional about Computer World and its technologies<br>
 
